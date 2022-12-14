@@ -1,0 +1,14 @@
+@page "/"
+
+<PageTitle>Index</PageTitle>
+
+<h1 class="mb-4">Hello, world!</h1>
+
+@if (StateContainer.IsServerSideRender)
+{
+		<p>Loading...</p>
+}
+else
+{
+		<p>Welcome to your new project.</p>
+}
