@@ -1,0 +1,14 @@
+{
+  "name": "blazor-wasm-ssr",
+  "version": "1.0.0",
+  "description": "This is a minimal template for an empty Blazor project with Server-Side Rendering and TailwindCSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
